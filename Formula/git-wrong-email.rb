@@ -1,8 +1,8 @@
 class GitWrongEmail < Formula
   desc "Refuse commits and pushes made under the wrong email for the repository"
   homepage "https://github.com/neosergio/git-wrong-email"
-  url "https://github.com/neosergio/git-wrong-email/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "751e020fe2ed89f76a2eb760354b47aa06427360f189c638c73201308aa436e0"
+  url "https://github.com/neosergio/git-wrong-email/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "f9bba38ff0e52411c01461295e6c2f6df170b00faeeac1ad36b923b4fd708802"
   license "MIT"
   head "https://github.com/neosergio/git-wrong-email.git", branch: "main"
 
