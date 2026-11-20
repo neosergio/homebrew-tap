@@ -1,6 +1,6 @@
 cask "latam-keyboard" do
-  version "1.1.1"
-  sha256 "7c67bc9e5e2b6184af838a7b99b42deb7dbbf175099d30aed44fb3eca36a12a0"
+  version "1.1.2"
+  sha256 "bc9926ddf263305e6fac76935617e9adbc811039ea2b4aadaf8ef3d921df88f1"
 
   url "https://github.com/neosergio/Latam-Keyboard/archive/refs/tags/v#{version}.tar.gz"
   name "Latam Keyboard"
