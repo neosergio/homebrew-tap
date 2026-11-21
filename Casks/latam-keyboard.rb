@@ -1,6 +1,6 @@
 cask "latam-keyboard" do
-  version "1.1.4"
-  sha256 "1b8fef26eced8819449d3b12725f708a235ad4ccd6bdbe85118f21eb0d1419de"
+  version "1.2.0"
+  sha256 "1d29d71760be93b4ff0b99dd7feb14e63ac25a3a0d9ccbaabee4b6c11cea14ec"
 
   url "https://github.com/neosergio/Latam-Keyboard/archive/refs/tags/v#{version}.tar.gz"
   name "Latam Keyboard"
@@ -18,6 +18,10 @@ cask "latam-keyboard" do
 
     If you are upgrading from 1.0.x, remove the old Latin American
     layouts from Input Sources and add them again.
+
+    Version 1.2.0 removed Type D and the White versions. If you used
+    one of them, add Type A instead of Type D, or the same type
+    without "White".
 
     Type A suits most external keyboards and Type B most built-in ones.
     If < and | are swapped, try the other one.
